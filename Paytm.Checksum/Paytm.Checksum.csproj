@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Paytm.Checksum</Title>
+    <Description>.net standard support for Paytm.dll Library from https://github.com/Paytm-Payments/Paytm_Web_Sample_Kit_dotNet</Description>
+    <Configuration></Configuration>
+    <Company>DonateKart</Company>
+    <Visibility>false</Visibility>
+    <Guid>A532C950-0A63-4CF0-8D5A-36A5482F8DBD</Guid>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.0</Version>
+    <InformationalVersion>1.0.0.0</InformationalVersion>
+    <Authors>Sunil Buddala</Authors>
+    <RepositoryUrl>https://github.com/buddalasunil999/paytm</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/buddalasunil999/paytm</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
